@@ -1,0 +1,23 @@
+/*
+ * style.css
+ */
+
+/*
+ * NOTE: you can use the theme color variables by using the syntax @someVariable.
+ * For the list of available colors, see:;
+ *   https://github.com/GNOME/gtk/blob/master/gtk/theme/Default/_colors-public.scss
+ */
+
+/* Main styles */
+
+.toolbar {
+  border-right: 1px solid @borders;
+}
+
+.control-bar {
+  padding: 1em;
+  border-bottom: 1px solid @borders;
+}
+.control-bar > *:not(:last-child) {
+  margin-right: 1em;
+}

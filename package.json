@@ -1,0 +1,19 @@
+{
+  "name": "node-gtk-template",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A node-gtk template application",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.5.1",
+    "native-keymap": "^2.2.1",
+    "node-gtk": "0.7.0"
+  }
+}
