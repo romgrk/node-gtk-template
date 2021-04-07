@@ -4,7 +4,7 @@
 This is a node-gtk application template. Use it as a base for your own project.
 
 <p align="center">
-  <img src="./static/demo.png" style="max-width: 600px; height: auto;"/>
+  <img src="./static/demo.png" style="height: 500px;"/>
 </p>
 
 # Development
