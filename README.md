@@ -3,9 +3,7 @@
 
 This is a node-gtk application template. Use it as a base for your own project.
 
-<p align="center">
-  <img src="./static/demo.png" style="height: 500px;"/>
-</p>
+![](static/demo.png | height=500)
 
 # Development
 
@@ -24,6 +22,4 @@ it will auto-reload whenever you change it.
 
 You can open the elements inspector (similar to browsers' devtools) with <kbd>Ctrl-Shit-D</kbd>.
 
-<p align="center">
-  <img src="./static/inspector.png" style="max-width: 600px; height: auto;"/>
-</p>
+![](static/inspector.png)
