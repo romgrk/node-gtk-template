@@ -22,7 +22,7 @@ it will auto-reload whenever you change it.
 
 ### Elements
 
-You can open the elements inspector (similar to browsers' devtools) with <kbd>Ctrl-Shit-D</kbd>.
+You can open the elements inspector (similar to browsers' devtools) with <kbd>Ctrl-Shift-D</kbd>.
 
 <p align="center">
   <img src="./static/inspector.png" />
