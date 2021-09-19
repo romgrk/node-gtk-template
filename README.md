@@ -1,7 +1,7 @@
 
 # node-gtk-template
 
-This is a node-gtk application template. Use it as a base for your own project.
+This is a [node-gtk](https://github.com/romgrk/node-gtk) application template. Use it as a base for your own project.
 
 <p align="center">
   <img src="./static/demo.png" height="500" />
